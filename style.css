@@ -1,0 +1,44 @@
+body{
+    background: #eeeeee;  /*00986c*/
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+form{
+    background: rgba(255, 255, 255, 0.8);
+    border: none;
+    backdrop-filter: blur(10px);
+    width: 370px;
+}
+
+.result {
+    margin-top: 2px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: transparent;
+    border-radius: 5px;
+}
+
+#resultText{
+    color: white;
+    font-family: "Segoe UI";
+    font-weight: 450;
+}
+
+#tituloResul{
+    font-family: "Segoe UI";
+    font-weight: 700;
+}
+
+
+table td {
+    text-align: center;
+}
+
+#resultTable th{
+    background-color: #02815d; /* Encabezado verde */
+    color: white;
+    text-align: center;
+}
