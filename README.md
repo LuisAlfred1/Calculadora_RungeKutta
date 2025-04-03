@@ -18,7 +18,7 @@ Este proyecto es una implementación del método de **Runge-Kutta de cuarto orde
 - **JavaScript** → Lógica de cálculo y funcionalidad  
 
 ## 📸 **Vista previa**  
-*(Agrega aquí una captura de pantalla de la calculadora para hacer más visual el README)*  
+*![image](https://github.com/user-attachments/assets/6757fd02-5436-4852-8126-4bbba868cd9a)*  
 
 ## 📚 **¿Cómo usarlo?**  
 1. Ingresa los valores iniciales requeridos.  
