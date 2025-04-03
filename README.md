@@ -29,5 +29,5 @@ Este proyecto es una implementación del método de **Runge-Kutta de cuarto orde
 Si deseas probarlo en tu máquina local:  
 ```bash
 git clone https://github.com/LuisAlfred1/Examen-Final_Met_Kutta.git
-cd rkcalculadora  
+cd Examen-Final_Met_Kutta
 open index.html  
