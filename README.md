@@ -1,8 +1,19 @@
-Calculadora Runge Kutta de Cuarto Orden
-------------------
+Calculadora Runge-Kutta de Cuarto Orden
+📌 Descripción
+Este proyecto es una implementación del método de Runge-Kutta de cuarto orden en un sitio web interactivo. Fue desarrollado utilizando HTML, CSS y JavaScript, con el objetivo de optimizar y facilitar el uso de este método de cálculo de ecuaciones diferenciales.
 
-Este es un proyecto realizado con html, css y javaScript, más alla de ser un examen, se buscó optimizar el uso de este metodo de calculo en un sitio web.
-Link del sitio web terminado:
+🎯 Características
+✅ Interfaz sencilla y amigable
+✅ Cálculo preciso de ecuaciones diferenciales
+✅ Optimizado para su uso en navegadores modernos
+✅ Implementado con JavaScript puro
 
-**rkcalculadora.netlify.app**
+🔗 Accede a la calculadora aquí:
+👉 rkcalculadora.netlify.app
 
+🚀 Tecnologías utilizadas
+HTML5 → Estructura del sitio
+
+CSS3 → Estilos y diseño responsivo
+
+JavaScript → Lógica de cálculo y funcionalidad
