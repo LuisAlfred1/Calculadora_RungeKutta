@@ -28,6 +28,6 @@ Este proyecto es una implementación del método de **Runge-Kutta de cuarto orde
 ## 🛠 **Instalación y uso local**  
 Si deseas probarlo en tu máquina local:  
 ```bash
-git clone https://github.com/LuisAlfred1/Examen-Final_Met_Kutta.git
+git clone **https://github.com/LuisAlfred1/Examen-Final_Met_Kutta.git**
 cd Calculadora_RungeKutta
 open index.html  
