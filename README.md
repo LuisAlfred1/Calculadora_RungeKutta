@@ -9,9 +9,6 @@ Este proyecto es una implementación del método de **Runge-Kutta de cuarto orde
 ✅ Optimizado para su uso en navegadores modernos  
 ✅ Implementado con JavaScript puro  
 
-🔗 **Accede a la calculadora aquí:**  
-👉 [rkcalculadora.netlify.app](https://rkcalculadora.netlify.app)  
-
 ## 🚀 **Tecnologías utilizadas**  
 - **HTML5** → Estructura del sitio  
 - **CSS3** → Estilos y diseño responsivo  
@@ -24,6 +21,9 @@ Este proyecto es una implementación del método de **Runge-Kutta de cuarto orde
 1. Ingresa los valores iniciales requeridos.  
 2. Define la función a evaluar.  
 3. Presiona "Calcular" y obtendrás los resultados.  
+
+🔗 **Accede a la calculadora aquí:**  
+👉 [rkcalculadora.netlify.app](https://rkcalculadora.netlify.app)  
 
 ## 🛠 **Instalación y uso local**  
 Si deseas probarlo en tu máquina local:  
